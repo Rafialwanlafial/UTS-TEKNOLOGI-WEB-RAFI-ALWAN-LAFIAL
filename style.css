@@ -1,0 +1,69 @@
+/* style Header */
+#header {
+ background:yellow;
+ height: 80px;
+ width: 99%;
+ padding: 10px 0px 0px 10px;
+}
+/* style sidebar */
+#sidebar {
+ background:gray;
+ height: 520px;
+ width: 15%;
+ padding: 20px;
+}
+/* style content */
+#content {
+ height: 500px;
+ width: 75%;
+ float: right;
+ border:dotted gray 1px;
+ padding: 20px;
+}
+/* costum navigasi */
+.nav {
+ font-family: arial;
+}
+.a {
+ text-decoration: none;
+}
+/* Bagian header */
+#header {
+ background:yellow;
+ height: 100px;
+ width: 1348px;
+ border : 1px solid silver;
+}
+/* Bagian navbar */
+#nav {
+ background: aqua;
+ padding: 10px;
+}
+/* Bagian a href*/
+a {
+ padding: 10px;
+ background: none;
+ text-decoration: none;
+ font-family: Times;
+}
+/* Bagian nav hover */
+a:hover {
+ color: red;
+ background: white;
+ font-size: 15px;
+}
+/* Bagian Content */
+#content {
+ background: white;
+ border : dotted 1px gray;
+ height: auto;
+ padding: 20px;
+}
+/* Bagian Footer */
+#footer {
+ background: gray;
+ height: 30px;
+ text-align: center;
+ font-family: arial;
+ padding: 10px;
+}
