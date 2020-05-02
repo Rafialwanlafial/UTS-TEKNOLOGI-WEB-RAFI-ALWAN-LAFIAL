@@ -1,4 +1,9 @@
 # UTS-TEKNOLOGI-WEB-RAFI-ALWAN-LAFIAL
+
+Nama  : Rafi Alwan Lafial
+NIM   : 311810062
+Kelas : TI.18.A.3
+
 soal ;
 Buatah desainweb HTML+CSS dengan ketentuan:
 1. Buatlah mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)
