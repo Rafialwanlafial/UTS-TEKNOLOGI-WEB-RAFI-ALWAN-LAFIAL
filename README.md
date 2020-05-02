@@ -1,8 +1,8 @@
 # UTS-TEKNOLOGI-WEB-RAFI-ALWAN-LAFIAL
 soal ;
 Buatah desainweb HTML+CSS dengan ketentuan:
-1. Buat mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)
-2. Buat HTML dan CSS berdasarkan mockup desain tersebut.
+1. Buatlah mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)
+2. Buatlah HTML dan CSS berdasarkan mockup desain tersebut.
 
 Tema Desain Web ;
 1. Untuk NIM dengan akhiran Ganjil adalah desain web company profile atau portofolio.
